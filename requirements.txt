@@ -2,3 +2,6 @@ jupyter
 ipykernel
 numpy
 pandas
+matplotlib
+seaborn
+plotly
